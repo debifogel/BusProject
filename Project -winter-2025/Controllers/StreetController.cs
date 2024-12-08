@@ -46,11 +46,19 @@ namespace Project__winter_2025.Controllers
         }
 
         // PUT api/<StreetController>/5
-        [HttpPut("{id}")]
+        [HttpPut("/update{id}")]
         public IActionResult Put(int id, [FromBody] Street  street)
         {
             _context.UpDate(id,street);
             return Ok();
+        }
+        [HttpPut("/addStation{id}")]
+        public IActionResult Put(int id, [FromBody] Station station)
+        {
+            bool result=_context.AddStation(station,id);
+            if(result) 
+            return Ok();
+            return NotFound();
         }
 
         // DELETE api/<StreetController>/5

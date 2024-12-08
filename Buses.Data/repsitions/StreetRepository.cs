@@ -38,7 +38,7 @@ namespace Buses.Data.repsitions
         }
         public Street Get(int id)
         {
-            return _context.streets.FirstOrDefault(street=>street.Id == id);
+            return _context.streets.ToList().FirstOrDefault(street=>street.Id == id);
         }
 
         public List<Street> GetAll(string? name, string? city, string? c, CompanyName? stam)

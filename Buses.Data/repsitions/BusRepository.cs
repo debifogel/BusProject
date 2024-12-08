@@ -37,7 +37,7 @@ namespace Buses.Data.repsitions
 
         public Bus Get(int id)
         {
-          return  _context.buses.FirstOrDefault(x => x.Id == id);
+          return  _context.buses.ToList().FirstOrDefault(x => x.Id == id);
         }
 
         public List<Bus> GetAll(string? name, string? destination, string? source, CompanyName? company)

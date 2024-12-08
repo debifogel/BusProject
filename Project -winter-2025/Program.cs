@@ -22,8 +22,8 @@ builder.Services.AddScoped<IRepository<Street>, StreetRepository>();
 
 
 
-builder.Services.AddSingleton<IData, DataContext>();
-
+//builder.Services.AddSingleton<IData, DataContext>();
+builder.Services.AddDbContext<DataContext>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

@@ -1,18 +1,20 @@
 ﻿
 using Buses.Core.classes;
 using Buses.Data.data;
+using Microsoft.EntityFrameworkCore;
 
-public class DataContext:IData
+public class DataContext: DbContext,IData
 {
-    public List<Bus> buses  { get; set; }
+    public DbSet<Bus> buses  { get; set; }
 
-    public List<Street> streets { get; set; }
+    public DbSet<Street> streets { get; set; }
 
-    public List<Station> stations { get; set; }
-    public DataContext() {
-        buses = new List<Bus>();
-        streets = new List<Street>();
-        stations = new List<Station>();
+    public DbSet<Station> stations { get; set; }
+//    public DataContext(DbContextOptions<DataContext> options)
+//: base(options) { }
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=Bus327860508_db");
     }
 
 }

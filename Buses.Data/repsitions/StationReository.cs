@@ -43,7 +43,7 @@ namespace Buses.Data.repsitions
 
         public List<Station> GetAll(string? name, string? city, string? c, CompanyName? stam)
         {
-            return _context.stations;
+            return _context.stations.ToList();
         }
         public bool UpDate(int id, Station item)
         {
