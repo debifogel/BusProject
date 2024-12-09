@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LggAVBdATfZGr2osg1h/A5JbZBLoTMrOO780HZRgrQw=",
+  "Source": "Buses.Api",
+  "BasePath": "_content/Buses.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

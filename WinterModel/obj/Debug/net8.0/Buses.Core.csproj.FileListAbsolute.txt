@@ -1,0 +1,24 @@
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\bin\Debug\net8.0\Buses.Core.deps.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\bin\Debug\net8.0\Buses.Core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\bin\Debug\net8.0\Buses.Core.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.AssemblyInfo.cs
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.sourcelink.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\refint\Buses.Core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\WinterModel\obj\Debug\net8.0\ref\Buses.Core.dll
+D:\Winter2025\WinterModel\bin\Debug\net8.0\Buses.Core.deps.json
+D:\Winter2025\WinterModel\bin\Debug\net8.0\Buses.Core.dll
+D:\Winter2025\WinterModel\bin\Debug\net8.0\Buses.Core.pdb
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.AssemblyInfoInputs.cache
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.AssemblyInfo.cs
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.csproj.CoreCompileInputs.cache
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.sourcelink.json
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.dll
+D:\Winter2025\WinterModel\obj\Debug\net8.0\refint\Buses.Core.dll
+D:\Winter2025\WinterModel\obj\Debug\net8.0\Buses.Core.pdb
+D:\Winter2025\WinterModel\obj\Debug\net8.0\ref\Buses.Core.dll

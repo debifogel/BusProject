@@ -1,0 +1,328 @@
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\CoverletSourceRootsMapping_stationTest
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.AssemblyInfo.cs
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.sourcelink.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\testhost.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.deps.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.runtimeconfig.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\appsettings.Development.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\appsettings.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.exe
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\testhost.exe
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\stationTest.deps.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\stationTest.runtimeconfig.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\stationTest.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\stationTest.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Azure.Core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Azure.Identity.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\NuGet.Frameworks.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.ClientModel.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Formats.Asn1.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Memory.Data.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Security.Permissions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.abstractions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.assert.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\xunit.execution.dotnet.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Data.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Service.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Core.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Data.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\bin\Debug\net8.0\Buses.Service.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationT.8C32A347.Up2Date
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\refint\stationTest.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\stationTest.genruntimeconfig.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\stationTest\obj\Debug\net8.0\ref\stationTest.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\CoverletSourceRootsMapping_stationTest
+D:\Winter2025\stationTest\bin\Debug\net8.0\appsettings.Development.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\appsettings.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\testhost.exe
+D:\Winter2025\stationTest\bin\Debug\net8.0\testhost.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.deps.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.runtimeconfig.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.staticwebassets.endpoints.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.exe
+D:\Winter2025\stationTest\bin\Debug\net8.0\stationTest.deps.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\stationTest.runtimeconfig.json
+D:\Winter2025\stationTest\bin\Debug\net8.0\stationTest.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\stationTest.pdb
+D:\Winter2025\stationTest\bin\Debug\net8.0\Azure.Core.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Azure.Identity.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.ClientModel.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.abstractions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.assert.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.core.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\xunit.execution.dotnet.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Core.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Data.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Service.dll
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Api.pdb
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Core.pdb
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Data.pdb
+D:\Winter2025\stationTest\bin\Debug\net8.0\Buses.Service.pdb
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.csproj.AssemblyReference.cache
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.AssemblyInfoInputs.cache
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.AssemblyInfo.cs
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.csproj.CoreCompileInputs.cache
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.sourcelink.json
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationT.8C32A347.Up2Date
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.dll
+D:\Winter2025\stationTest\obj\Debug\net8.0\refint\stationTest.dll
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.pdb
+D:\Winter2025\stationTest\obj\Debug\net8.0\stationTest.genruntimeconfig.cache
+D:\Winter2025\stationTest\obj\Debug\net8.0\ref\stationTest.dll

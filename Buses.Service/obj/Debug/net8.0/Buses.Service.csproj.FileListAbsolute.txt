@@ -1,0 +1,32 @@
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Service.deps.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Service.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Service.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Core.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Core.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.csproj.AssemblyReference.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.AssemblyInfoInputs.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.AssemblyInfo.cs
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.sourcelink.json
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Se.90B11CD4.Up2Date
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\refint\Buses.Service.dll
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.pdb
+Y:\Groups\Group_1\פוגלבלט דבורה\.net\project\Winter2025\Buses.Service\obj\Debug\net8.0\ref\Buses.Service.dll
+D:\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Service.deps.json
+D:\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Service.dll
+D:\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Service.pdb
+D:\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Core.dll
+D:\Winter2025\Buses.Service\bin\Debug\net8.0\Buses.Core.pdb
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.csproj.AssemblyReference.cache
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.AssemblyInfoInputs.cache
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.AssemblyInfo.cs
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.csproj.CoreCompileInputs.cache
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.sourcelink.json
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Se.90B11CD4.Up2Date
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.dll
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\refint\Buses.Service.dll
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\Buses.Service.pdb
+D:\Winter2025\Buses.Service\obj\Debug\net8.0\ref\Buses.Service.dll
