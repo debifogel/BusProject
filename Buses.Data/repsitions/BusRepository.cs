@@ -46,7 +46,7 @@ namespace Buses.Data.repsitions
                     (bus.BusName == null || bus.BusName == name)
                     && (bus.Company == 0 || bus.Company == company)
                      && (destination == null || bus.Destination == destination)
-                && (destination == null || bus.Source == source));
+                && (destination == null || bus.Source == source)).ToList();
         }
 
         public bool UpDate(int id, Bus item)

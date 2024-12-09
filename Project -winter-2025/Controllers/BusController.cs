@@ -48,7 +48,7 @@ namespace Project__winter_2025.Controllers
 
         // PUT api/<BusController>/5
         [HttpPut("/update{id}")]
-        public IActionResult Put(int id, [FromBody]  Bus bus)
+        public IActionResult Update(int id, [FromBody]  Bus bus)
         {
            bool result= _context.UpDate(id, bus);
             if(result)
@@ -56,9 +56,9 @@ namespace Project__winter_2025.Controllers
             return NotFound();
         }
         [HttpPut("/addStation{id}")]
-        public IActionResult Put(int id, [FromBody] Station station, [FromBody] int placeinline ,[FromBody] StatusOfStation status)
+        public IActionResult addStation(int id, [FromBody] StationAndi station)
         {
-           bool result= _context.AddStation(new StationAndi( station,placeinline,status),id);
+           bool result= _context.AddStation(station,id);
            if(result)
             return Ok();
            return NotFound();

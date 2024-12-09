@@ -27,8 +27,8 @@ namespace Project__winter_2025.Controllers
         [HttpGet("{id}")]
         public ActionResult Get(int id)
         {
-            
-            Station s= _context.GetById(id);
+
+            Station s = _context.GetById(id);
             if (s is null)
             {
                 return NotFound();
@@ -60,6 +60,6 @@ namespace Project__winter_2025.Controllers
             return Ok();
         }
 
-       
+
     }
 }

@@ -14,16 +14,17 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IStationService,StationService>();
-builder.Services.AddScoped<IBusService, BusService>();
+
 builder.Services.AddScoped<IStreetService, StreetService>();
-builder.Services.AddScoped<IRepository<Bus>, BusRepository>();
+
 builder.Services.AddScoped<IRepository<Station >, StationReository>();
 builder.Services.AddScoped<IRepository<Street>, StreetRepository>();
-
+builder.Services.AddScoped<IBusService, BusService>();
+builder.Services.AddScoped<IRepository<Bus>, BusRepository>();
 
 
 //builder.Services.AddSingleton<IData, DataContext>();
-builder.Services.AddDbContext<DataContext>();
+builder.Services.AddDbContext<IData,DataContext>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

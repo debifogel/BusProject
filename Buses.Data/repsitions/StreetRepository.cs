@@ -43,7 +43,7 @@ namespace Buses.Data.repsitions
 
         public List<Street> GetAll(string? name, string? city, string? c, CompanyName? stam)
         {
-            return (List<Street>)_context.streets.Where(item => (city == null || item.City == city) && (name == null || item.Name == name));
+            return (List<Street>)_context.streets.Where(item => (city == null || item.City == city) && (name == null || item.Name == name)).ToList();
         }
         public bool UpDate(int id, Street item)
         {

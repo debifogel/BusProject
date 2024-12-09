@@ -14,7 +14,7 @@ public class DataContext: DbContext,IData
 //: base(options) { }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=Bus327860508_db");
+        optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=BUS327860508_db");
     }
 
 }

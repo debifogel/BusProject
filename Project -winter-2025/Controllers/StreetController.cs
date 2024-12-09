@@ -21,7 +21,7 @@ namespace Project__winter_2025.Controllers
         [HttpGet]
         public IEnumerable<Street> Get([FromQuery] string? name, [FromQuery] string? city)
         {
-            return _context.GetAll(name,city);
+            return _context.GetAll(name, city);
         }
 
         // GET api/<StreetController>/5
@@ -30,15 +30,15 @@ namespace Project__winter_2025.Controllers
         [HttpGet("{id}")]
         public Street Get(int id)
         {
-              
-                return _context.GetById(id);
-            
-           
+
+            return _context.GetById(id);
+
+
         }
 
         // POST api/<StreetController>
         [HttpPost]
-        public IActionResult Post([FromBody]NameAndCity value)
+        public IActionResult Post([FromBody] NameAndCity value)
 
         {
             _context.Post(value);
@@ -46,18 +46,21 @@ namespace Project__winter_2025.Controllers
         }
 
         // PUT api/<StreetController>/5
-        [HttpPut("/update{id}")]
-        public IActionResult Put(int id, [FromBody] Street  street)
+        [HttpPut("/update/{id}")]
+        public IActionResult update(int id, [FromBody] Street street)
         {
-            _context.UpDate(id,street);
-            return Ok();
+            bool result = _context.UpDate(id, street);
+
+            if (result)
+                return Ok();
+            return NotFound();
         }
-        [HttpPut("/addStation{id}")]
-        public IActionResult Put(int id, [FromBody] Station station)
+        [HttpPut("/addStation/{id}")]
+        public IActionResult AddStation(int id, [FromBody] Station station)
         {
-            bool result=_context.AddStation(station,id);
-            if(result) 
-            return Ok();
+            bool result = _context.AddStation(station, id);
+            if (result)
+                return Ok();
             return NotFound();
         }
 

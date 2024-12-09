@@ -1,9 +1,12 @@
-﻿namespace Buses.Core.classes
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace Buses.Core.classes
 {
     public class Station
     {//איך אפשר קוד על פי אזור
         static int Count = 1;
-        public int Id { get; }
+        
+        public int Id { get; set; }
         public string StationName { get; set; }
         public string City { get; set; }
         public List<Bus> BusInStation { get; set; }
