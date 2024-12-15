@@ -4,7 +4,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <RootNamespace>Project__winter_2025</RootNamespace>
+    <RootNamespace>Buses</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -15,10 +15,6 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Buses.Data\Buses.Data.csproj" />
-    <ProjectReference Include="..\Buses.Service\Buses.Service.csproj" />
-    <ProjectReference Include="..\WinterModel\Buses.Core.csproj" />
-  </ItemGroup>
+  
 
 </Project>
